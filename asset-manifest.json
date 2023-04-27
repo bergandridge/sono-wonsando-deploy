@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sono-wonsando-deploy/static/css/main.80117c2b.css",
-    "main.js": "/sono-wonsando-deploy/static/js/main.8330ab83.js",
+    "main.css": "/sono-wonsando-deploy/static/css/main.72e2b423.css",
+    "main.js": "/sono-wonsando-deploy/static/js/main.5184f78c.js",
     "static/media/Helvetica-Bold.ttf": "/sono-wonsando-deploy/static/media/Helvetica-Bold.1f4720c9185292dd1c06.ttf",
     "static/media/Helvetica.ttf": "/sono-wonsando-deploy/static/media/Helvetica.e02baa10003e7b09e1aa.ttf",
     "static/media/Helvetica-Light.ttf": "/sono-wonsando-deploy/static/media/Helvetica-Light.aceb13bfb2f76f5e4a3c.ttf",
     "index.html": "/sono-wonsando-deploy/index.html",
-    "main.80117c2b.css.map": "/sono-wonsando-deploy/static/css/main.80117c2b.css.map",
-    "main.8330ab83.js.map": "/sono-wonsando-deploy/static/js/main.8330ab83.js.map"
+    "main.72e2b423.css.map": "/sono-wonsando-deploy/static/css/main.72e2b423.css.map",
+    "main.5184f78c.js.map": "/sono-wonsando-deploy/static/js/main.5184f78c.js.map"
   },
   "entrypoints": [
-    "static/css/main.80117c2b.css",
-    "static/js/main.8330ab83.js"
+    "static/css/main.72e2b423.css",
+    "static/js/main.5184f78c.js"
   ]
 }
